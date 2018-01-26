@@ -1,8 +1,8 @@
 {
-  "name": "ngx-bootstrap-base",
-  "version": "1.9.3",
+  "name": "ngx-bootstrap-1.x-maintain",
+  "version": "1.9.5",
   "description": "Native Angular Bootstrap Components",
-  "private": true,
+  "private": false,
   "scripts": {
     "lite-server": "lite-server -c scripts/bs-config.js",
     "typedoc": "typedoc --exclude '**/*.spec.ts' ./src/",
@@ -55,7 +55,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/valor-software/ngx-bootstrap.git"
+    "url": "git+ssh://git@github.com:ningkexin/ngx-bootstrap.git"
   },
   "bugs": {
     "url": "https://github.com/valor-software/ngx-bootstrap/issues"
@@ -112,7 +112,7 @@
     "karma-remap-istanbul": "0.6.0",
     "karma-sauce-launcher": "1.2.0",
     "lite-server": "2.3.0",
-    "lodash": "4.17.4",
+    "lodash": "^4.17.4",
     "markdown-loader": "github:valorkin/markdown-loader",
     "marked": "0.3.6",
     "ng2-page-scroll": "4.0.0-beta.7",

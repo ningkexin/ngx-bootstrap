@@ -45,7 +45,7 @@ ngx-bootstrap contains all core (and not only) Bootstrap components powered by A
 
 Install `ngx-bootstrap` from `npm`
 ```bash
-npm install ngx-bootstrap --save
+npm i ngx-bootstrap-1.x-maintain
 ```
 
 You will need bootstrap styles (Bootstrap 3)
